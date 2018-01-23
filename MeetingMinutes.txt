@@ -1,0 +1,106 @@
+Sprint 1:
+	SCRUM #1
+		Member participate: Thad Hogan, Anh Nguyen
+		Time: 10:45 - 11:00 AM           Date: Monday, 10/30/2017
+
+		_ Get familiar with AI and game rule
+		_ Decide which option on game menu
+
+	SCRUM #2
+		Member participate: Thad Hogan, Krista Capps, Anh Nguyen
+		Time: 10:45 - 11:00 AM           Date: Wednesday, 11/01/2017
+
+
+		_ Get familiar with cilent-server networking
+		_ Getting the brief layout of the board that do nothing
+		_ Setting up board manager
+
+
+	SCRUM #3
+		Member participate: Thad Hogan, Krista Capps, Anh Nguyen
+		Time: 4:00 - 4:15 PM             Date: Friday, 11/03/2017
+
+
+		_ Continue to work on board manager
+		_ Displaying the game board through GUI
+		_ AI can generate random move
+		_ Finish sprint 1 on time
+		_ Planning tasks for next sprint
+
+
+==========================================================================================================================
+
+Sprint 2:
+	SCRUM #1
+		Member participate: Krista Capps, Anh Nguyen
+		Time: 10:45 - 11:00 AM           Date: Monday, 11/06/2017
+
+
+		_ Adding game rule and handle player/AI move
+		_ Update board to get interaction with user
+		_ Implement client-server that does nothing
+
+	SCRUM #2
+		Member participate: Thad Hogan, Krista Capps, Anh Nguyen
+		Time: 10:45 - 11:00 AM           Date: Wednesday, 11/08/2017
+
+
+		_ AI can look ahead one move in tree
+		_ Begin to handle GUI interaction
+		_ Continue to work on receive input from user
+
+
+	SCRUM #3
+		Member participate: Krista Capps, Anh Nguyen
+		Time: 3:30 - 3:45 PM             Date: Thursday, 11/09/2017
+
+
+		_ Begin to implement minimax to AI
+		_ Planning tasks for next sprint
+
+
+=============================================================================================================================
+
+Sprint 3:
+	SCRUM #1
+		Member participate: Thad Hogan, Krista Capps, Anh Nguyen
+		Time: 10:45 - 11:00 AM           Date: Monday, 11/13/2017
+
+		_ Continue develop minimax tree
+		_ Continue to working on server-client
+		_ Continue to handle GUI interaction and data transfer
+		_ Fixed board coordinate to handle different number of houses
+		_ Repaint the board for every move
+
+	SCRUM #2
+		Member participate: Thad Hogan, Krista Capps, Anh Nguyen
+		Time: 10:45 - 11:00 AM           Date: Wednesday, 11/15/2017
+
+
+		_ Testing AI move, implement alpha-beta pruning
+		_ Continue to work on networking, fix some bug in game manager 
+		_ Continue to work on updating the board for GUI
+
+
+	SCRUM #3
+		Member participate: Thad Hogan, Krista Capps, Anh Nguyen
+		Time: 3:00 - 3:15 PM             Date: Friday, 11/17/2017
+
+
+		_ Completely handle move in GUI
+		_ Fixing bugs in interaction between board manager and GUI menu
+		_ Testing AI (let AI play against each other)
+		_ Complete alpha-beta pruning implementation
+		_ Complete iterative deepening implementation
+
+	SCRUM #4
+		Member participate: Thad Hogan, Krista Capps, Anh Nguyen
+		Time: 10:45 - 11:00 PM             Date: Mondaay, 11/20/2017
+
+
+		_ Continue to fix bugs throughout the project
+		_ Adding pie rule
+		_ Testing client-server
+		_ Eliminate umimportant tasks and focus on fixing bug in major features
+
+
