@@ -64,17 +64,17 @@ Option 2:
             the number of seeds per house, and a timeout limit for turns. Note that if  
             the timeout ever does run out during the game, whoever's turn it was will  
             automatically lose, even if they were ahead.
-            ![Alt text](/readme_screenshots/server_menu.png?raw=true "Server Menu")
+            ![Alt text](/readme_screenshots/server_menu.png?raw=true "Server Menu")  
          - Playing the Game  
            - A GUI will come up on each client screen. This means two GUIs will pop up  
              if clients are on the same machine. The GUIs are labeled with player number  
              at the top bar.
-               ![Alt text](/readme_screenshots/compare.png?raw=true "Two Client Windows")
+               ![Alt text](/readme_screenshots/compare.png?raw=true "Two Client Windows")  
              You may see server and client communication messages in the
              console, most often 'OK', which is sent when the server successfully recieves  
              information. We no longer need the console and you can ignore these. When a  
              a player wins, a pop-up message will show on each screen.
-               ![Alt text](/readme_screenshots/winner.png?raw=true "Winner Pop-up")
+               ![Alt text](/readme_screenshots/winner.png?raw=true "Winner Pop-up")  
              The rules for the game Kalah can be found at:
              http://mancala.wikia.com/wiki/Kalah  
              
