@@ -50,11 +50,11 @@ Option 2:
            and outgoing connections, and that you have the correct IP.  
        - Choosing Players  
          - There are a number of options for player situations  
-            > Two clients on different machines can play against each other  
+            - Two clients on different machines can play against each other  
               through the server. Each player can be either human or AI  
-            > Two clients can run on the same machine and play each other through  
+            - Two clients can run on the same machine and play each other through  
               the server. Each player can be human or AI  
-            > A client can play against the server. In this case the client can  
+            - A client can play against the server. In this case the client can  
               be a human or an AI but the server MUST be an AI  
            Note that it is possible to have two clients and the server on the same  
            machine.  
