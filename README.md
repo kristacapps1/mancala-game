@@ -41,14 +41,14 @@ Option 1:
 Option 2:  
   - Choosing play game with server means you will connect to another system  
     or potentially your own. 
-      > Setting up a Server:  
+      - Setting up a Server:  
          - It will ask if you need a new server and if so it will start one for you,  
            which you can run on your own system by typing 'localhost' as the IP. If  
            you select no, you will need the IP of another server to connect to. When  
            a server is started, the port number will be output to the console so that  
            another client can use it to connect. Be sure your firewalls allow incoming  
            and outgoing connections, and that you have the correct IP.  
-       > Choosing Players  
+       - Choosing Players  
          - There are a number of options for player situations  
             > Two clients on different machines can play against each other  
               through the server. Each player can be either human or AI  
@@ -58,13 +58,13 @@ Option 2:
               be a human or an AI but the server MUST be an AI  
            Note that it is possible to have two clients and the server on the same  
            machine.  
-        > Choosing game options  
+        - Choosing game options  
           - Now whichever machine is running the server will see a server menu pop up.  
             In this menu the server person can choose the number of houses per side,  
             the number of seeds per house, and a timeout limit for turns. Note that if  
             the timeout ever does run out during the game, whoever's turn it was will  
             automatically lose, even if they were ahead.  
-         > Playing the Game  
+         - Playing the Game  
            - A GUI will come up on each client screen. This means two GUIs will pop up  
              if clients are on the same machine. The GUIs are labeled with player number  
              at the top bar. You may see server and client communication messages in the  
